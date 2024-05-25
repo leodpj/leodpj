@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Develop and mobile
 - 🌱 I’m currently learning Python, React Native and Devops
 - 💞️ I’m looking to collaborate on ... anything's with base in my knowledges
-- 📫 How to reach me Twitter, Facebook @leodpj
+- 📫 How to reach me Twitter, Facebook, Discord @leodpj
 
 <div>
   <a href="https://github.com/leodpj">
@@ -32,7 +32,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -46,7 +46,7 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm-ide&logoColor=2C2255)
@@ -60,7 +60,7 @@
    <a href="https://github.com/ledopj">   </a>
   </div>
   
-## Onde me encontrar
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-LeonardoJesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/leonardo-jesus-5006532b")](https://www.linkedin.com/in/leonardo-jesus-5006532b)
 [![Gmail Badge](https://img.shields.io/badge/-leodpj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leodpj²gmail.com)](mailto:leodpj@gmail.com)
