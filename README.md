@@ -56,10 +56,6 @@
 
 <br/>
   
-  <div>
-   <a href="https://github.com/ledopj">   </a>
-  </div>
-  
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-LeonardoJesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/leonardo-jesus-5006532b")](https://www.linkedin.com/in/leonardo-jesus-5006532b)
