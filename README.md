@@ -26,7 +26,9 @@
   <div>
    <a href="https://github.com/ledopj">   </a>
   </div>
+  
+## Onde me encontrar
 
-    [![Linkedin](https://img.shields.io/badge/-LeonardoJesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/leonardo-jesus-5006532b")](https://www.linkedin.com/in/leonardo-jesus-5006532b)
+[![Linkedin](https://img.shields.io/badge/-LeonardoJesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/leonardo-jesus-5006532b")](https://www.linkedin.com/in/leonardo-jesus-5006532b)
 [![Gmail Badge](https://img.shields.io/badge/-leodpj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leodpj²gmail.com)](mailto:leodpj@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/leodpj?label=follow&style=social)](https://github.com/leodpj)
