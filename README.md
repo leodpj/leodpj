@@ -45,6 +45,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Aws](https://img.shields.io/badge/-Aws-333333?style=flat&logo=aws)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 **Development Tools**
 
