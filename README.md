@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Develop and mobile
 - 🌱 I’m currently learning Python, React Native and Devops
 - 💞️ I’m looking to collaborate on ... anything's with base in my knowledges
-- 📫 How to reach me Twitter, Facebook, Discord @leodpj
+- 📫 How to reach me Twitter, Discord @leodpj
 
 <div>
   <a href="https://github.com/leodpj">
