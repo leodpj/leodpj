@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leodpj - Leonardo Jesus
 - 👀 I’m interested in Web Develop and mobile
-- 🌱 I’m currently learning Python, React Native and Devops
+- 🌱 I’m currently learning Python, Java, React Native and Devops
 - 💞️ I’m looking to collaborate on ... anything's with base in my knowledges
 - 📫 How to reach me Twitter, Discord @leodpj
 
