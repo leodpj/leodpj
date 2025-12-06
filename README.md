@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leodpj - Leonardo Jesus
 - 👀 I’m interested in Web Develop and mobile
-- 🌱 I’m currently developer FullStack Python, Java, React.
+- 🌱 I’m currently developer FullStack Python, React.
 - 💞️ I’m looking to collaborate on ... anything's with base in my knowledges
 - 📫 How to reach me Twitter, Discord @leodpj
 
