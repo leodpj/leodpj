@@ -1,67 +1,121 @@
-- 👋 Hi, I’m @leodpj - Leonardo Jesus
-- 👀 I’m interested in Web Develop and mobile
-- 🌱 I’m currently developer FullStack Python, React.
-- 🌱 I'm UX/UI Design Adobe XD, Figma projects.
-- 💞️ I’m looking to collaborate on ... anything's with base in my knowledges
-- 📫 How to reach me Twitter, Discord @leodpj
+# Olá, eu sou o Leonardo Jesus 👋
 
-<div>
-  <a href="https://github.com/leodpj">
-  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=leodpj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodpj&layout=compact&langs_count=16&theme=dracula"/>  
-</div>
-  
- 
- <div style ="display: inline_block"><br> 
-   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
-   <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width:100%;">
-   <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width:100%;">
-   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">
-   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
-   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
-   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
-   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" style="max-width:100%;">
-   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" style="max-width:100%;">
-   
-  </div>  
-  
-## My Skills
+### FullStack Developer | UI/UX Designer | Cloud Enthusiast
 
-**Applications and data**
+Sou um desenvolvedor focado em construir experiências digitais completas, unindo o poder do **Python** e **React** com um olhar apurado para **Design UI/UX**.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+---
 
-**Utilities**
+### 🚀 Sobre Mim
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+- 💻 Atualmente atuando como **Developer FullStack** (Python & React).
+- 🎨 Especialista em prototipação com **Figma** e **Adobe XD**.
+- ☁️ Explorando soluções em **Azure** e **Google Cloud**.
+- 📫 Vamos conversar? **Discord: @leodpj** ou **Twitter**.
+- 🤝 Aberto a colaborações que desafiem meus conhecimentos.
 
-**DevOps**
+---
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+### 🛠️ Tecnologias e Habilidades
 
-**Development Tools**
+#### 🌍 Web & Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+#### 🎨 Design & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-<br/>
-  
-## Where to find me
+#### ⚙️ DevOps & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+</p>
 
-[![Linkedin](https://img.shields.io/badge/-LeonardoJesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/leonardo-jesus-5006532b")](https://www.linkedin.com/in/leonardo-jesus-5006532b)
-[![Gmail Badge](https://img.shields.io/badge/-leodpj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leodpj²gmail.com)](mailto:leodpj@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/leodpj?label=follow&style=social)](https://github.com/leodpj)
+---
+
+### 📊 Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leodpj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodpj&layout=compact&langs_count=8&theme=dracula"/>  
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-jesus-5006532b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodpj@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/leodpj?label=Follow&style=for-the-badge&logo=github)](https://github.com/leodpj)# Olá, eu sou o Leonardo Jesus 👋
+
+### FullStack Developer | UI/UX Designer | Cloud Enthusiast
+
+Sou um desenvolvedor focado em construir experiências digitais completas, unindo o poder do **Python** e **React** com um olhar apurado para **Design UI/UX**.
+
+---
+
+### 🚀 Sobre Mim
+
+- 💻 Atualmente atuando como **Developer FullStack** (Python & React).
+- 🎨 Especialista em prototipação com **Figma** e **Adobe XD**.
+- ☁️ Explorando soluções em **Azure** e **Google Cloud**.
+- 📫 Vamos conversar? **Discord: @leodpj** ou **Twitter**.
+- 🤝 Aberto a colaborações que desafiem meus conhecimentos.
+
+---
+
+### 🛠️ Tecnologias e Habilidades
+
+#### 🌍 Web & Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+#### 🎨 Design & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+#### ⚙️ DevOps & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+</p>
+
+---
+
+### 📊 Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leodpj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Leonardo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodpj&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-jesus-5006532b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodpj@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/leodpj?label=Follow&style=for-the-badge&logo=github)](https://github.com/leodpj)
