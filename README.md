@@ -58,5 +58,5 @@ Sou um desenvolvedor focado em construir experiências digitais completas, unind
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-jesus-5006532b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodpj@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/leodpj?label=Follow&style=for-the-badge&logo=github)](https://github.com/leodpj)# Olá, eu sou o Leonardo Jesus 👋
+[![GitHub followers](https://img.shields.io/github/followers/leodpj?label=Follow&style=for-the-badge&logo=github)](https://github.com/leodpj)
 ---
